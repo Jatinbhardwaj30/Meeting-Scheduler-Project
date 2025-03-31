@@ -1,6 +1,6 @@
 import React from 'react'
-import SideNavBar from './_components/sidenavbar'
-import DashboardHeader from './_components/dashboardheader'
+import SideNavBar from './_components/SideNavBar'
+import DashboardHeader from './_components/DashboardHeader'
 
 function Dashboard_Layout({ children }) {
   return (
